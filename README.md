@@ -9,4 +9,5 @@ I did this project in order to my practice HTML/CSS and Javascript - Tutorial do
 I am hosting the website for free by InfinityFree.com
 
 # Link to the website:
-next-generation.great-site.net
+[next-generation.great-site.net
+](http://next-generation.great-site.net/?i=1)
