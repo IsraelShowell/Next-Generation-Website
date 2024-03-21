@@ -13,10 +13,14 @@ I am hosting the website for free by InfinityFree.com
 ](http://next-generation.great-site.net/?i=1)
 
 # Version History:
-# V-1.00: 3-14-16-2024
+# V-1.00: (3-14-16-2024)
 Inital Version.
 Uploaded to Github.
 
 # Current Features as of V-1.00:
 The website is currently available online via the link.
 The website scales to accommodate smaller and larger device screens.
+
+# Future Features to Implement:
+- Implement a login screen that changes the Sign Up to Hello, {user}
+- Use JavaScript to make a cart page
