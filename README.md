@@ -4,7 +4,7 @@
 # Version: 1.00
 
 # Description: 
-This is a basic HTML/CSS website that incorperates Javascript to provide a dynamic experience for users.
+This is a basic HTML/CSS website that incorporates Javascript to provide a dynamic experience for users.
 I did this project in order to my practice HTML/CSS and Javascript - Tutorial done by Brian Design on Youtube
 I am hosting the website for free by InfinityFree.com
 
