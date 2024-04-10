@@ -13,6 +13,12 @@ I am hosting the website for free by InfinityFree.com
 [next-generation.great-site.net
 ](http://next-generation.great-site.net/?i=2)
 
+# HTML/CSS/JS Concepts Used:
+- Styling Classes
+- Dynamic Webpage Development
+- File Connecting
+- Interaction Detecting
+
 # Version History:
 # V-1.00: (3-14-16-2024)
 Inital Version.
